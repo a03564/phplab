@@ -44,7 +44,8 @@ background-color:#dddddd;
 <p class="new">This is another paragraph.</p> 
 <p class="new">This is a new paragraph.</p>
 
-<?php echo "hello new world <br>"; />
+<?php echo "hello new world <br>"; ?>
+//this line is broke
 
 </body>
 </html>
